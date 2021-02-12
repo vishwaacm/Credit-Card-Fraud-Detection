@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-A data science project explains the different techniques and methods in detecting the fraud and non-fradulant transactions using Python in Jupyter Note book. Note that this has been run in the local machine. Only partial data lines has been taken for the analysis.
+A data science project(attached) explains the different techniques and methods in detecting the fraud and non-fradulant transactions using Python in Jupyter Note book. Note that this has been run in the local machine. Only partial data lines has been taken for the analysis.
 
 This work includes:
 
