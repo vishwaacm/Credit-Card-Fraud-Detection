@@ -32,4 +32,4 @@ Data handling/sampling techniques
   
     o	Generate synthetic samples (SMOTE)
 
-For highly unbalanced dataset (as this) using SMOTE with Random and Oversampling with Logistic Regression are the best of the options. Elbow method also gives improvement, howver might it need to whole data set into analysis. Might be many other possible methods to try when dealing with imbalanced datasets. Some others methods to consider more data set and choosing different resampling ratios may help in improving the score.
+For highly unbalanced dataset (as this) using SMOTE with Random and Oversampling with Logistic Regression are the best options. Elbow method also gives improvement, however might it needs whole data set into the analysis. Some others methods to consider more data set and choosing different resampling ratios may help in improving the score.
