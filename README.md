@@ -21,6 +21,8 @@ Here, I have explored 8 different methods for dealing with imbalanced datasets (
     o	K-nearest neighbours
   
     o	Support Vector Machine
+    
+Data handling/sampling techniques
   
     o	Optimisation using GridSearchCV
   
@@ -30,4 +32,4 @@ Here, I have explored 8 different methods for dealing with imbalanced datasets (
   
     o	Generate synthetic samples (SMOTE)
 
-For highly unbalanced dataset (as this) random forest and SMOTE are among the best of the options. Elbow method also gives improvement, howver might it need to whole data set into analysis. Might be many other possible methods to try when dealing with imbalanced datasets. Some others methods to consider more data set and choosing different resampling ratios may help in improving the score.
+For highly unbalanced dataset (as this) using SMOTE with Random and Oversampling with Logistic Regression are the best of the options. Elbow method also gives improvement, howver might it need to whole data set into analysis. Might be many other possible methods to try when dealing with imbalanced datasets. Some others methods to consider more data set and choosing different resampling ratios may help in improving the score.
