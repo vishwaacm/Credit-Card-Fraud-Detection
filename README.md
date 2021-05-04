@@ -12,7 +12,7 @@ This work includes:
 
 Conclusion
 
-Here, I have explored 8 different methods for dealing with imbalanced datasets (as this):
+Here, I have explored 4 different methods for dealing with imbalanced datasets (as this):
 
     o	Logistic Regression
   
